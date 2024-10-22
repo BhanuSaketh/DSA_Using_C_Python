@@ -1,4 +1,4 @@
-Note: It is better ti draw the data struct for better understanding 
+Note: It is better to draw the data struct for better understanding 
 
 Output for Tree Creation using Array:
 
