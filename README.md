@@ -19,8 +19,11 @@ output for BFS:
 
 
 
-
-
-
-
 ![image](https://github.com/user-attachments/assets/ce72581e-a792-4ec1-8123-f200c819ecdc)
+
+
+output for DFS:
+
+
+
+![image](https://github.com/user-attachments/assets/a401f073-e12e-4a74-ac25-e539cccbf42a)
