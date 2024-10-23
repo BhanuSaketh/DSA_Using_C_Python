@@ -1,1 +1,1 @@
-**Note: It is better to draw the data struct for better understanding**
+**Note: It is better to draw the data structure for better understanding**
